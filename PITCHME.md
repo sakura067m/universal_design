@@ -1,11 +1,6 @@
-@snap[north-west]
 ### こんにちは！
-@snapend
-
-@snap[north-west]
 test
 これはサンプルのスライド資料です。
-@snapend
 
 ---
 
