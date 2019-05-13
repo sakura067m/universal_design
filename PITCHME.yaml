@@ -6,3 +6,6 @@ logo-position: bottom-right
 
 # settings
 mathjax : TeX-MML-AM_HTMLorMML-full
+
+# layout
+layout: top-left
