@@ -1,7 +1,3 @@
----
-logo : assets/img/sample_logo.jpg
-logo-position : bottom-right
----
 ### こんにちは！
 
 

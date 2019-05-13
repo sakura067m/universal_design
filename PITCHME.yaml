@@ -1,6 +1,8 @@
 # theme
 theme: black
 theme-override : assets/css/PITCHME.css
+logo: assets/images/sample_logo.jpg
+logo-position: bottom-right
 
 # settings
 mathjax : TeX-MML-AM_HTMLorMML-full
