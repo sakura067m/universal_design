@@ -2,9 +2,9 @@
 ### こんにちは！
 @snapend
 
-
+@snap[north-west]
 これはサンプルのスライド資料です。
-
+@snapend
 
 ---
 
